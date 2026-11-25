@@ -1,17 +1,8 @@
-<!--
-  ╔══════════════════════════════════════════╗
-  ║       DAMM-KWON | GITHUB PROFILE         ║
-  ║           GRUVBOX DARK THEME             ║
-  ╚══════════════════════════════════════════╝
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=200&section=header&text=DAMM-KWON&fontSize=55&fontColor=ebdbb2&fontAlignY=38&desc=BUILDING%20%7C%20LEARNING%20%7C%20CREATING&descAlignY=58&descSize=15&animation=fadeIn" width="100%" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=600&lines=Aspiring+Developer;Linux+Enthusiast;Open+Source+Explorer;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=600&lines=JavaScript+Developer;C+Programmer;Python+Programmer;Linux+Enthusiast;Open+Source+Explorer" />
 
 <br/>
 
@@ -27,54 +18,76 @@
 ```yaml
 name: Damm
 username: Damm-kwon
-role: Aspiring Developer
+role: Developer
 location: Indonesia
+
+programming_languages:
+  - JavaScript
+  - C
+  - Python
+
+tools:
+  - GitHub
+  - Git
+  - Linux
+  - Omarchy
 
 interests:
   - Software Development
-  - Linux & Open Source
+  - Linux Customization
+  - Open Source
   - Programming
-  - Technology
-
-environment:
-  os: Omarchy Linux
-  editor: VS Code
-  version_control: Git & GitHub
 
 philosophy: "Learn something new every day."
 ```
 
-I'm an aspiring developer interested in exploring technology, programming, and open-source projects.
+I'm a developer interested in programming, Linux, and open-source technology.
 
-I enjoy experimenting with Linux, learning new programming concepts, and building things along the way.
-
----
-
-## `02` — Tech Stack
-
-### Languages
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql&theme=dark" />
-</div>
-
-### Tools & Environment
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arch,bash,git,github,vscode&theme=dark" />
-</div>
-
-### Technologies I'm Exploring
-
-- Web Development
-- Database Management
-- Software Development
-- Linux Customization
-- Open Source Ecosystem
+I enjoy exploring different programming languages, customizing my Linux environment, and experimenting with new projects.
 
 ---
 
-## `03` — GitHub Statistics
+## `02` — Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,c,python&theme=dark" />
+
+</div>
+
+---
+
+## `03` — Tools & Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=github,git,linux&theme=dark" />
+
+<br/><br/>
+
+<a href="https://omarchy.org/">
+  <img src="https://img.shields.io/badge/Omarchy-282828?style=for-the-badge&logo=linux&logoColor=fabd2f" />
+</a>
+
+</div>
+
+---
+
+## `04` — Languages I Use
+
+<div align="center">
+
+| Language | Usage |
+|:---:|:---|
+| 🟨 JavaScript | Programming |
+| 🔵 C | Programming |
+| 🐍 Python | Programming |
+
+</div>
+
+---
+
+## `05` — GitHub Statistics
 
 <div align="center">
 
@@ -86,7 +99,7 @@ I enjoy experimenting with Linux, learning new programming concepts, and buildin
 
 ---
 
-## `04` — Contribution Streak
+## `06` — Contribution Streak
 
 <div align="center">
 
@@ -96,7 +109,7 @@ I enjoy experimenting with Linux, learning new programming concepts, and buildin
 
 ---
 
-## `05` — Contribution Activity
+## `07` — Contribution Activity
 
 <div align="center">
 
@@ -106,23 +119,7 @@ I enjoy experimenting with Linux, learning new programming concepts, and buildin
 
 ---
 
-## `06` — Currently Learning
-
-<div align="center">
-
-| Topic | Focus |
-|:---|:---|
-| Web Development | HTML, CSS, JavaScript |
-| Programming | Python & Programming Fundamentals |
-| Database | MySQL |
-| Linux | Omarchy & Arch-based Environment |
-| Version Control | Git & GitHub |
-
-</div>
-
----
-
-## `07` — Featured Projects
+## `08` — Featured Projects
 
 <div align="center">
 
@@ -134,12 +131,18 @@ I enjoy experimenting with Linux, learning new programming concepts, and buildin
 
 ---
 
-## `08` — Connect
+## `09` — Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Damm-kwon">
   <img src="https://img.shields.io/badge/GitHub-282828?style=for-the-badge&logo=github&logoColor=ebdbb2" />
+</a>
+<a href="https://instagram.com/demmkyon">
+  <img src="https://img.shields.io/badge/Instagram-282828?style=for-the-badge&logo=instagram&logoColor=d3869b" />
+</a>
+<a href="https://discord.com/users/">
+  <img src="https://img.shields.io/badge/Discord-dumbs__-282828?style=for-the-badge&logo=discord&logoColor=8ec07c" />
 </a>
 
 <br/><br/>
