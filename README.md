@@ -43,10 +43,6 @@ interests:
 goal: "Continuously learning and building new things."
 ```
 
-I'm an **Information Technology (IT) student** majoring in Information and Communication Technology (TIK).
-
-I'm interested in programming, software development, Linux, and open-source technology. I enjoy learning new technologies, experimenting with different programming languages, and building projects to improve my skills.
-
 **Currently exploring:** JavaScript, C, Python, and the world of software development.
 
 ## `02` — Programming Languages
