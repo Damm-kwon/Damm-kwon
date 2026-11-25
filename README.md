@@ -18,7 +18,9 @@
 ```yaml
 name: Damm
 username: Damm-kwon
-role: Developer
+role: IT Student
+major: Information and Communication Technology
+study_program: Information Technology
 location: Indonesia
 
 programming_languages:
@@ -34,18 +36,18 @@ tools:
 
 interests:
   - Software Development
-  - Linux Customization
-  - Open Source
   - Programming
+  - Linux & Open Source
+  - Technology
 
-philosophy: "Learn something new every day."
+goal: "Continuously learning and building new things."
 ```
 
-I'm a developer interested in programming, Linux, and open-source technology.
+I'm an **Information Technology (IT) student** majoring in Information and Communication Technology (TIK).
 
-I enjoy exploring different programming languages, customizing my Linux environment, and experimenting with new projects.
+I'm interested in programming, software development, Linux, and open-source technology. I enjoy learning new technologies, experimenting with different programming languages, and building projects to improve my skills.
 
----
+**Currently exploring:** JavaScript, C, Python, and the world of software development.
 
 ## `02` — Programming Languages
 
